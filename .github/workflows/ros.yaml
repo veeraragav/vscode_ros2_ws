@@ -1,4 +1,4 @@
-name: ROS
+name: ROS2-build-ws
 
 on:
   pull_request:
